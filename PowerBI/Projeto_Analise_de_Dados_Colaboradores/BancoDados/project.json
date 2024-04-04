@@ -1,0 +1,38 @@
+[
+  {
+    "pname": "ProductX",
+    "dnum": 1,
+    "location": "Bellaire",
+    "mgnum": 5
+  },
+  {
+    "pname": "ProductY",
+    "dnum": 2,
+    "location": "Sugarland",
+    "mgnum": 5
+  },
+  {
+    "pname": "ProductZ",
+    "dnum": 3,
+    "location": "Houston",
+    "mgnum": 5
+  },
+  {
+    "pname": "Computerization",
+    "dnum": 10,
+    "location": "Stafford",
+    "mgnum": 4
+  },
+  {
+    "pname": "Reorganization",
+    "dnum": 20,
+    "location": "Houston",
+    "mgnum": 1
+  },
+  {
+    "pname": "Newbenefits",
+    "dnum": 30,
+    "location": "Stafford",
+    "mgnum": 4
+  }
+]

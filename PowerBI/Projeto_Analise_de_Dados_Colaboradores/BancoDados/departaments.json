@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Research",
+    "manager_id": 5,
+    "location_id": 333445555,
+    "start_date": "1988-05-22",
+    "end_date": "1986-05-22"  
+  },
+  {
+    "name": "Administration",
+    "manager_id": 4,
+    "location_id": 987654321,
+    "start_date": "1995-01-01",
+    "end_date": "1994-01-01"  
+  },
+  {
+    "name": "Headquarters",
+    "manager_id": 1,
+    "location_id": 888665555,
+    "start_date": "1981-06-19",
+    "end_date": "1980-06-19"  
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "ssn": 333445555,
+    "name": "Alice",
+    "gender": "F",
+    "dob": "1986-04-05",
+    "relationship": "Daughter"
+  },
+  {
+    "ssn": 333445555,
+    "name": "Theodore",
+    "gender": "M",
+    "dob": "1983-10-25",
+    "relationship": "Son"
+  },
+  {
+    "ssn": 333445555,
+    "name": "Joy",
+    "gender": "F",
+    "dob": "1958-05-03",
+    "relationship": "Spouse"
+  },
+  {
+    "ssn": 987654321,
+    "name": "Abner",
+    "gender": "M",
+    "dob": "1942-02-28",
+    "relationship": "Spouse"
+  },
+  {
+    "ssn": 123456789,
+    "name": "Michael",
+    "gender": "M",
+    "dob": "1988-01-04",
+    "relationship": "Son"
+  },
+  {
+    "ssn": 123456789,
+    "name": "Alice",
+    "gender": "F",
+    "dob": "1988-12-30",
+    "relationship": "Daughter"
+  },
+  {
+    "ssn": 123456789,
+    "name": "Elizabeth",
+    "gender": "F",
+    "dob": "1967-05-05",
+    "relationship": "Spouse"
+  }
+]

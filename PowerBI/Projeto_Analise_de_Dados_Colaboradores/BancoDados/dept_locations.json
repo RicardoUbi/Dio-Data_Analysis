@@ -1,0 +1,22 @@
+[
+  {
+    "department_id": 1,
+    "location": "Houston"
+  },
+  {
+    "department_id": 4,
+    "location": "Stafford"
+  },
+  {
+    "department_id": 5,
+    "location": "Bellaire"
+  },
+  {
+    "department_id": 5,
+    "location": "Sugarland"
+  },
+  {
+    "department_id": 5,
+    "location": "Houston"
+  }
+]
